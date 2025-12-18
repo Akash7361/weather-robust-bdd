@@ -1,0 +1,8 @@
+Evaluation Strategy
+
+- Metrics: Use mAP@0.5 and mAP@0.5:0.95 to evaluate detection accuracy and localization quality.
+- Validation: Evaluate on clear-weather validation data to establish a stable baseline.
+- Testing: Test on mixed/adverse-weather data to measure generalization and domain shift.
+- Training setup: Train for a fixed number of epochs and batch size to ensure stable convergence.
+- Initialization: Use COCO-pretrained YOLOv8 weights for faster and more reliable training.
+- Analysis: Use precision–recall curves to analyze confidence behavior and class-wise performance.
