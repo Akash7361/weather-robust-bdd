@@ -246,5 +246,6 @@ The following metrics are used for model evaluation:
 
 ---
 
-✅ **This README follows the notebook flow exactly and is beginner-friendly for interview review and reproducibility.**
+
+
 
