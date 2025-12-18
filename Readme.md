@@ -61,7 +61,7 @@ subset_10/
 ```
 
 🖼️ **Image Placeholder – Dataset Samples**  
-![Dataset Samples](images/dataset_samples.png)
+![Dataset Samples](bdd100k.jpg)
 
 ---
 
@@ -120,7 +120,7 @@ This helps in:
 - Justifying evaluation strategy
 
 🖼️ **Image Placeholder – EDA Plots**  
-![Histogram ](weather_robust_bdd\eda\train_vehicle_size_hist.png)
+![Histogram ](histogram.png)
 
 ---
 
@@ -178,6 +178,7 @@ The following metrics are used for model evaluation:
 ![Precision_loss](precision_recall.png)
 ![maP curve](map_curve.png)
 
+![Map By Wheather](mapWeather.png)
 ---
 
 ## 9. Results Summary
